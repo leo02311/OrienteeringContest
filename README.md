@@ -1,4 +1,2 @@
 # OrienteeringContest
-##flask架構
-##在LINE Front-end Framework (LIFF)運行
-##在firebase資料庫管理
+一個簡易的架構採用flask運行，以達成定向越野的數據蒐集，為了兼顧使用者認證方便與網頁的自由度，選擇在LINE Front-end Framework (LIFF)運行，透過蒐集line使用者的userID與回傳記錄達成定向越野目標之記錄，為了簡易資料庫管理，使用firebase資料庫統整資料
